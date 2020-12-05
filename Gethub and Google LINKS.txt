@@ -1,0 +1,10 @@
+google link: 
+         https://mdn0fsqdibibon9psopskq-on.drv.tw/shoppingmall/
+
+
+Gethub link:HTTPS----------
+           https://github.com/SHARJEEL7007/ADZilla-website.git
+Gethub link:SSH--------------
+            git@github.com:SHARJEEL7007/ADZilla-website.git
+Gethub link: GitHub CLI----------
+	gh repo clone SHARJEEL7007/ADZilla-website
